@@ -7,7 +7,7 @@ import jokes
 
 
 bot = lightbulb.BotApp(
-    token='MTA5MjExNjg5NDMxNzgwNTU4OA.GWaAgQ.Z47N44fdUNH80Z8hxTalI6f85tbYNOlkTNXNaU',
+    token='MTA5MjExNjg5NDMxNzgwNTU4OA.GWaAgQ.Z47N44fdUNH80Z8hxTalI6f85tbYNOlkTNXNaU',#(Add your owwn Bot Key here)
     intents=hikari.Intents.ALL,
     default_enabled_guilds=(1090187834700345344)
 )
